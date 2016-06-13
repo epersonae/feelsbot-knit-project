@@ -169,17 +169,17 @@ __row 14:__ cast off!
 
 CO 18 using TEA (long-tail method)
 
-__rows 1 - 11:__ Work as stockinette stitch: P odd numbered rows and K even numbered rows.
+__rows 1 - 11:__ Work as stockinette stitch: K odd numbered rows and P even numbered rows.
 
-__row 12:__ K8 TEA, K2 YEL, K8 TEA
+__row 12:__ P8 TEA, K2 YEL, K8 TEA
 
-__row 13:__ P8 TEA, P2 YEL, P8 TEA
+__row 13:__ K8 TEA, P2 YEL, P8 TEA
 
-__row 14:__ K6 TEA, K6 YEL, K6 TEA
+__row 14:__ P6 TEA, K6 YEL, K6 TEA
 
-__row 15:__ P6 TEA, P6 YEL, P6 TEA
+__row 15:__ K6 TEA, P6 YEL, P6 TEA
 
-__row 16:__ K6 TEA, K6 YEL, K6 TEA
+__row 16:__ P6 TEA, K6 YEL, K6 TEA
 
 __row 17:__ K4 TEA, K8 YEL, K4 TEA
 
